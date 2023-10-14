@@ -10,4 +10,3 @@ root.render(
     <App location={forecast.location} forecasts={forecast.forecasts} />
   </React.StrictMode>,
 );
-
